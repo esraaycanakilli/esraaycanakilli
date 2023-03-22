@@ -1,9 +1,5 @@
 ### Hi there 👋 I'm Esra.
 
-<!--
-**esraaycanakilli/esraaycanakilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - ⚡ I’m currently working on HTML,HTML5,CSS,CSS3,SASS,SCSS
 - ⚡ I’m currently learning javaScript
