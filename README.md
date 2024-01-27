@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋 , ben Esra Akıllı</h1><h3 align="center">React ve frontend geliştirme alanında uzman bir Türk.</h3>
+                 <h1 align="center">Merhaba 👋 , ben Esra Akıllı</h1><h3 align="center">React ve frontend geliştirme alanında uzman bir Türk.</h3>
 
 
 - 🔭 Şu anda **React | Frontend Developer**- Üzerinde işbirliği yapmak istiyorum **Ben bir frontend geliştiriciyim ve ilginç web projelerinde işbirliği yapmak istiyorum**- Şu konularda yardım arıyorum **Yeni programlama dilleri öğrenmek için yardım arıyorum**- Bana **Html5,Css3,Sass,Boostrap,JavaScript,React,Firebase,Tailwind
